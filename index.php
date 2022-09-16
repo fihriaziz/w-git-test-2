@@ -12,5 +12,9 @@
         <li>satu</li>
         <li>dua</li>
     </ul>
+    <ol>
+        <li>Lorem</li>
+        <li>Ipsum</li>
+    </ol>
 </body>
 </html>
